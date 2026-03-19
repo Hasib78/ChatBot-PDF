@@ -1,0 +1,22 @@
+# --- Web Framework & Server ---
+fastapi[standard]
+python-multipart
+aiofiles
+
+# --- LangChain Ecosystem ---
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+
+# --- Vector Database & AI Models ---
+chromadb
+sentence-transformers
+pypdf
+
+# --- Configuration & Logging ---
+python-dotenv
+pydantic
+pydantic-settings
+loguru

@@ -1,0 +1,48 @@
+# # --- Web Framework & Server ---
+# # [standard] includes Uvicorn, fastapi-cli, and websockets
+# fastapi[standard]
+# # Mandatory for handling PDF file uploads
+# python-multipart
+# # For asynchronous saving of uploaded PDFs
+# aiofiles
+# # Standard library for external API calls
+# requests
+
+# # --- LangChain Ecosystem (2026 Modular Stack) ---
+# # The main wrapper
+# langchain
+# langchain-classic
+# # Core interfaces and base classes
+# langchain-core
+# # Third-party integrations (Chroma, PDF Loaders)
+# langchain-community
+# # Specifically for the Llama 3.3 / Groq integration
+# langchain-groq
+# # For RecursiveCharacterTextSplitter
+# langchain-text-splitters
+
+# # --- Vector Database & AI Models ---
+# # Your local vector database
+# chromadb
+# # Necessary for HuggingFaceBgeEmbeddings
+# sentence-transformers
+# # Backend for PyPDFLoader
+# pypdf
+
+# # --- Configuration & Validation ---
+# # For managing .env files
+# python-dotenv
+# # Core data validation
+# pydantic
+# # For the modern 'BaseSettings' config pattern
+# pydantic-settings
+
+# # --- Frontend & UI ---
+# # For building the chat interface later
+# streamlit
+
+# # --- Utilities & Logging ---
+# # For the beautiful colored logs in your project
+# loguru
+# # Progress bars for PDF processing
+# tqdm

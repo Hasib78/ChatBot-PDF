@@ -1,0 +1,6 @@
+# --- Frontend & UI ---
+streamlit
+
+# --- Utilities ---
+requests
+python-dotenv
