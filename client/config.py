@@ -1,3 +1,5 @@
 import os
 
 API_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+
+# BACKEND_URL = "https://chatbot-pdf-xnh0.onrender.com"

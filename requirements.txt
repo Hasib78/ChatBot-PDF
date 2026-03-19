@@ -25,6 +25,7 @@
 # # Your local vector database
 # chromadb
 # # Necessary for HuggingFaceBgeEmbeddings
+##langchain-huggingface
 # sentence-transformers
 # # Backend for PyPDFLoader
 # pypdf

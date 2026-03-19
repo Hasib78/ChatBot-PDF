@@ -34,4 +34,6 @@ Environment Variables: A note to add the GROQ_API_KEY to the .env file.
 How to Run: fastapi dev server/main.py
 fastapi dev main.py
 streamlit run app.py 
-Deploy: uvicorn main:app --host 0.0.0.0 --port 10000-->
+Deploy: uvicorn main:app --host 0.0.0.0 --port 10000 or
+uvicorn main:app --host 0.0.0.0 --port $PORT
+-->

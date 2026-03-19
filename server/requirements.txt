@@ -8,11 +8,13 @@ langchain
 langchain-core
 langchain-community
 langchain-groq
+langchain-huggingface
+huggingface-hub
 langchain-text-splitters
 
 # --- Vector Database & AI Models ---
 chromadb
-sentence-transformers
+#sentence-transformers  - removed for deployment edit
 pypdf
 
 # --- Configuration & Logging ---
