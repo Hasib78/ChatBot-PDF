@@ -1,10 +1,10 @@
-# AI-Powered PDF Chatbot (RAG System)
+# 🤖 AI-Powered PDF Chatbot (RAG System)
 
 A full-stack Retrieval-Augmented Generation (RAG) application that allows users to upload multiple PDF documents and converse with their data in real-time. 
 
 ## 🚀 Live Demo
-* [Frontend Application](Link-to-your-streamlit-app)
-* [Backend API Docs](Link-to-your-fastapi-docs)
+* [Frontend Application](https://chatbot-pdf-etkekfzy9bbbhmptvpagas.streamlit.app/)
+* [Backend API Docs](https://chatbot-pdf-ab2i.onrender.com/docs)
 
 ## 🏗️ Architecture
 * **Frontend:** Streamlit (Provides an interactive, chat-like UI with file management)
@@ -36,4 +36,6 @@ fastapi dev main.py
 streamlit run app.py 
 Deploy: uvicorn main:app --host 0.0.0.0 --port 10000 or
 uvicorn main:app --host 0.0.0.0 --port $PORT
+PYTHON_VERSION = 3.12.6
+BACKEND_URL = "https://chatbot-pdf-ab2i.onrender.com"
 -->
