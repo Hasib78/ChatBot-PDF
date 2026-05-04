@@ -1,4 +1,4 @@
-# 🤖 AI-Powered PDF Chatbot (RAG System)
+# 🤖 Optimized RAG-based PDF Chatbot (RAG System)
 
 A full-stack Retrieval-Augmented Generation (RAG) application that allows users to upload multiple PDF documents and converse with their data in real-time. 
 
